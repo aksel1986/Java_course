@@ -37,7 +37,8 @@ public class Lesson1 {
         String firstName1 = "Loris";
         String lastName1 = "Mnatsakanyan";
 
-        System.out.println(firstName + " " + lastName);
+        System.out.println(firstName1 + " " + lastName);
+        System.out.println(firstName1 + " " + lastName);
 
         int k = 95;
         System.out.println("K = " + k);
