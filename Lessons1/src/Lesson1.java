@@ -34,8 +34,8 @@ public class Lesson1 {
         String firstName = "Aksel";
         String lastName = "Mnatsakanyan";
 
-        String firstName = "Aksel_Test";
-        String lastName = "Mnatsakanyan_Test";
+        String firstName1 = "Loris";
+        String lastName1 = "Mnatsakanyan";
 
         System.out.println(firstName + " " + lastName);
 
