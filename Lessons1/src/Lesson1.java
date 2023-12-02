@@ -34,6 +34,9 @@ public class Lesson1 {
         String firstName = "Aksel";
         String lastName = "Mnatsakanyan";
 
+        String firstName = "Aksel_Test";
+        String lastName = "Mnatsakanyan_Test";
+
         System.out.println(firstName + " " + lastName);
 
         int k = 95;
