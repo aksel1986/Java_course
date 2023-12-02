@@ -23,25 +23,6 @@ public class Lesson1 {
         v = false;
         System.out.println(v);
 
-        char t = '$';
-        System.out.println(t);
-        char tt = '\u003F';
-        System.out.println(tt);
-
-        String s = "barev Lessons1";
-        System.out.println(s);
-
-        String firstName = "Aksel";
-        String lastName = "Mnatsakanyan";
-
-        String firstName1 = "Loris";
-        String lastName1 = "Mnatsakanyan";
-
-        System.out.println(firstName1 + " " + lastName);
-        System.out.println(firstName1 + " " + lastName);
-
-        int k = 95;
-        System.out.println("K = " + k);
 
     }
 
